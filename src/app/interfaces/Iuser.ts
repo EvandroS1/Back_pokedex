@@ -1,5 +1,3 @@
-import { Timestamp } from "typeorm";
-
 interface Iuser {
   id?: string;
   name: string;
